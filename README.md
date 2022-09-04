@@ -10,12 +10,12 @@ Visual Basic for Applications (or VBA for short) is a powerful tool that can be 
 
 ### Stock Performance
 
-Based on the analysis of 2017 and 2018 stock using total daily volume and yearly returns as performance metrics, 2017 stocks had a significantly better performance compared to 2018 stocks. 11 out of 12 stocks had an overall positive return in 2017, with the top performers being DQ, with an overall return of 199.4%! The highest total daily volume in 2017 was SPWR, with a total daily volume of $782,187,000. The table below represents the 2017 stock analysis.
+Based on the analysis of 2017 and 2018 stock using total daily volume and yearly returns as performance metrics, 2017 stocks had a significantly better performance compared to 2018 stocks. 11 out of 12 stocks had an overall positive return in 2017, with the top performer being DQ, with an overall return of 199.4%! The bottom performer was TERP, with a yearly return of -7.2%. The highest total daily volume in 2017 was SPWR, with a total daily volume of $782,187,000, whereas the lowest total daily volume was DQ, with a total daily volume of $35,796,200. The table below represents the output of the 2017 stock analysis.
 
 ![VBA_Challenge_2017_Performance](https://user-images.githubusercontent.com/96188669/188319844-97e4101d-699b-43f1-9a64-019a3c23aeb9.png)
 
 
-There was a stark difference in 2018 stock performance. Comparatively, only 2 out of the 12 stocks had an overall positive return in 2018. The top performer was RUN, with an overall return of 84.0%. In contrast, the lowest performer in 2018 was DQ, with an overall return of -62.6%. The highest total daily volume in 2018 was ENPH, with a total daily volume of $607,473,500. The table below represents the 2018 stock analysis.
+There was a stark difference in 2018 stock performance. Comparatively, only 2 out of the 12 stocks had an overall positive return in 2018. The top performer was RUN, with an overall return of 84.0%. In contrast, the bottom performer in 2018 was DQ, with an overall return of -62.6%. The highest total daily volume in 2018 was ENPH, with a total daily volume of $607,473,500 and AY had the lowest daily volume of $83,079,900. The table below represents the output of the 2018 stock analysis.
 
 ![VBA_Challenge_2018_Performance](https://user-images.githubusercontent.com/96188669/188319854-789c61be-cef9-4609-a45d-bc3589d1ef0b.png)
 
